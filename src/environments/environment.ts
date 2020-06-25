@@ -5,7 +5,7 @@
 export const environment = {
   production: false,
   // apiBaseUrl: "http://localhost:3000"
-  apiBaseUrl: 'https://datenite-gc.herokuapp.com',
+  apiBaseUrl: 'https://date-nite-app.herokuapp.com',
 };
 
 /*
